@@ -8,4 +8,7 @@ public class Sample {
 	public void method1() {
 		System.out.println("meyhod 1 added here.");
 	}
+	public void method3() {
+		System.out.println("meyhod 3 added");
+	}
 }
